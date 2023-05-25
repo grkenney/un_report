@@ -59,7 +59,7 @@ library(knitr)
 
 gapminder_1997 %>% 
   filter(continent == "Oceania") %>% 
-  kable()
+  kable() 
 ```
 
 
